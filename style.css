@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, #e3f2fd, #ffffff);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+#tanggal {
+    color: #6c757d;
+}
+
+#jam {
+    color: #198754;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card-header {
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 15px 15px 0 0 !important;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.btn {
+    width: 100px;
+}
