@@ -32,5 +32,15 @@ ALUR PROJEK WEBSITE JADWAL KULIAH
          - <div class="card-header"> (memberikan judul pada kota jadwal)
 
 3. MEMbBUAT DATA.JS
-    - buat variabel menggunakan const( data yg tidak bisa diganti dengan objek lain selama program berjalan)\
-    - di dalam variable tambah properti
+       -
+    buat variabel menggunakan const( data yg tidak bisa diganti dengan objek lain selama program berjalan)
+       - di dalam variable tambah properti (selasa,rabu,kamis)
+       - setiap hari di buat dalam bentuk array
+       - membuat objek mata kuliah
+5. MEMBUAT APP.JS
+      - membuat function tampilJadwal(hari) (menampilkan jadwal sesuai hari yang dipilih pengguna)
+      - mengambil tempat menampilkan jadwal const container = document.getElementById("jadwalContainer");
+      - mengambil data data berdasarkan hari
+      - membuat variabel html
+      - melakukan perulangan
+      - membuat card bootstrap
