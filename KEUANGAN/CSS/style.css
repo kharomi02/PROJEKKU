@@ -1,0 +1,41 @@
+body{
+    background-color:#f6f7fa;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.navbar, 
+.card-header.bg-primary {
+    background-color: #1e293b !important;
+}
+.card{
+     background-color: #ffffff !important;
+    border-radius:15px;
+}
+
+
+
+
+.btn-success {
+    background-color: #10b981 !important;
+    border-color: #10b981 !important;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-success:hover {
+    background-color: #059669 !important;
+    border-color: #059669 !important;
+    transform: translateY(-1px);
+}
+
+table{
+    vertical-align:middle;
+}
+
+textarea{
+    resize:none;
+}
+.aldo {
+    color: #10b981;
+    font-weight: bold;
+}
